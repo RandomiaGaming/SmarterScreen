@@ -1,7 +1,0 @@
-G:\Coding\C#\SmarterScreen\obj\Debug\SmarterScreen.csproj.AssemblyReference.cache
-G:\Coding\C#\SmarterScreen\obj\Debug\SmarterScreen.csproj.CoreCompileInputs.cache
-G:\Coding\C#\SmarterScreen\bin\Debug\SmarterScreen.exe.config
-G:\Coding\C#\SmarterScreen\bin\Debug\SmarterScreen.exe
-G:\Coding\C#\SmarterScreen\bin\Debug\SmarterScreen.pdb
-G:\Coding\C#\SmarterScreen\obj\Debug\SmarterScreen.exe
-G:\Coding\C#\SmarterScreen\obj\Debug\SmarterScreen.pdb
